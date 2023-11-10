@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/2paPOza.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FiU893E.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The open tickets listed above lack the appropriate severity settings and have not been assigned to an owner. In the upcoming phase, these tickets will be duly assigned with the correct priorities.
@@ -33,15 +33,15 @@ The open tickets listed above lack the appropriate severity settings and have no
 <br />
 
 <p>
-<img src="https://i.imgur.com/RjAWqBS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rr6MimY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The open ticket has now been assigned, and its priority status has been escalated from "Normal" to "Emergency." Additionally, the ticket was transferred to the System Administrators Department, which was previously housed under the Support Department.
+The open ticket has now been assigned, and its priority status has been escalated from "Normal" to "Emergency." Additionally, the ticket was transferred to the System Administrators Department, which was previously housed under the Support Department. The SLA was also changed from "Default" to "Sev-A" to align better with the severity of the issue.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/cM2OnTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9eldXaS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The ticket issue was successfully resolved through collaboration with the system administration team. A systems engineer identified the problem, which was related to a load balancer, and subsequently resolved the ticket.
@@ -49,7 +49,7 @@ The ticket issue was successfully resolved through collaboration with the system
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ahygs5o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bl4cDSm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The ticket has been moved to the "Closed" tab and is no longer listed as an open ticket.
